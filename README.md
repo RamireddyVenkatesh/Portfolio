@@ -1,16 +1,37 @@
-# React + Vite
+# 🚀 Personal Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A modern, responsive, and highly customizable personal portfolio built with React, Vite, and Tailwind CSS. It features smooth scroll animations via Framer Motion and isolates all personal data into a single configuration file for effortless updates.
 
-Currently, two official plugins are available:
+![Portfolio Preview](https://via.placeholder.com/1000x500.png?text=Portfolio+Preview+Image) <!-- Replace with your actual screenshot link once deployed -->
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## ✨ Features
 
-## React Compiler
+- **Modern Tech Stack**: Built with React & Vite for lightning-fast development and optimized production builds.
+- **Responsive Design**: Fully styled with Tailwind CSS, ensuring a perfect layout across mobile, tablet, and desktop.
+- **Dark Mode Theme**: Sleek, professional dark UI out-of-the-box.
+- **Smooth Animations**: Integrated with Framer Motion for scroll-reveal effects and fluid component mounting.
+- **Data-Driven Architecture**: All personal details (experience, projects, skills, social links) are stored in a single `credentials.js` file. No need to hunt through UI components to update your resume!
+- **Deploy-Ready**: Configured for seamless deployment to Vercel or Netlify.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Tech Stack
 
-## Expanding the Oxlint configuration
+- **Framework**: [React 18](https://reactjs.org/) + [Vite](https://vitejs.dev/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Icons**: [Lucide React](https://lucide.dev/)
+- **Animations**: [Framer Motion](https://www.framer.com/motion/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 🚀 Getting Started
+
+Follow these instructions to get a copy of the project up and running on your local machine.
+
+### Prerequisites
+
+Ensure you have Node.js installed on your system.
+- Node.js (v16.0.0 or higher)
+- npm or yarn
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/yourusername/your-repo-name.git](https://github.com/yourusername/your-repo-name.git)
